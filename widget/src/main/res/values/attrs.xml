@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="attr">
+        <attr name="CardTitleTextSize" format="dimension" />
+        <attr name="CardTitleTextColor" format="color" />
+        <attr name="CardProgressColor" format="color" />
+        <attr name="CardProgressBackgroundColor" format="color" />
+        <attr name="CardTitleText" format="string" />
+        <attr name="CardProgress" format="integer" />
+        <attr name="detailTextSize" format="dimension" />
+        <attr name="detailTextColor" format="integer" />
+        <attr name="detailText" format="string" />
+        <attr name="leftActionSrc" format="integer" />
+        <attr name="rightActionSrc" format="integer" />
+        <attr name="midActionSrc" format="integer" />
+    </declare-styleable>
+
+</resources>

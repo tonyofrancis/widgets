@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_semi_transparent">#4D111111</color>
+    <color name="default_progress_color">#4291F1</color>
+    <color name="default_progress_backgroundColor">#CCCCCC</color>
+</resources>
