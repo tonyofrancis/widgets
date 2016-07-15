@@ -1,2 +1,2 @@
 # widgets
-Custom Widgets
+Custom Android Widgets
